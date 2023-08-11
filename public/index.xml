@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>https://hugotest.github.io.git/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 10 Aug 2023 15:58:56 &#43;0800</lastBuildDate>
+            <atom:link href="https://hugotest.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>广西南宁市晨启动有限责任公司</title>
+    <link>https://hugotest.github.io.git/posts/first_post/</link>
+    <pubDate>Thu, 10 Aug 2023 15:58:56 &#43;0800</pubDate>
+    <author>晨启</author>
+    <guid>https://hugotest.github.io.git/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
